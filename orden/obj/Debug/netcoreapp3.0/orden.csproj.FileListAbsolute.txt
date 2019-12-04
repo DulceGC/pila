@@ -1,0 +1,11 @@
+C:\Users\gilsa\source\repos\orden\orden\bin\Debug\netcoreapp3.0\orden.exe
+C:\Users\gilsa\source\repos\orden\orden\bin\Debug\netcoreapp3.0\orden.deps.json
+C:\Users\gilsa\source\repos\orden\orden\bin\Debug\netcoreapp3.0\orden.runtimeconfig.json
+C:\Users\gilsa\source\repos\orden\orden\bin\Debug\netcoreapp3.0\orden.runtimeconfig.dev.json
+C:\Users\gilsa\source\repos\orden\orden\bin\Debug\netcoreapp3.0\orden.dll
+C:\Users\gilsa\source\repos\orden\orden\bin\Debug\netcoreapp3.0\orden.pdb
+C:\Users\gilsa\source\repos\orden\orden\obj\Debug\netcoreapp3.0\orden.csprojAssemblyReference.cache
+C:\Users\gilsa\source\repos\orden\orden\obj\Debug\netcoreapp3.0\orden.AssemblyInfoInputs.cache
+C:\Users\gilsa\source\repos\orden\orden\obj\Debug\netcoreapp3.0\orden.AssemblyInfo.cs
+C:\Users\gilsa\source\repos\orden\orden\obj\Debug\netcoreapp3.0\orden.dll
+C:\Users\gilsa\source\repos\orden\orden\obj\Debug\netcoreapp3.0\orden.pdb
